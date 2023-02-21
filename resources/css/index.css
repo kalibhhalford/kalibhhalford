@@ -1,0 +1,16 @@
+* {
+    font-family: sans-serif;
+    background-color: darkgray;
+}
+
+h1 {
+    text-align: center;
+}
+
+.aboutMe {
+    text-align: center;
+}
+
+.aboutMeDesc {
+    text-align: center;
+}
